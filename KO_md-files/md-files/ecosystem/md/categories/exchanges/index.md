@@ -1,6 +1,6 @@
 ---
 layout: partials/ecosystem/category
-title: Exchanges
+title: 상장 거래소
 
 items:
   - bittrex.md
