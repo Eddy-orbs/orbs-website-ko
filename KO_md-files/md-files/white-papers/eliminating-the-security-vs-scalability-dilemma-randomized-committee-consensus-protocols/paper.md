@@ -1,7 +1,7 @@
 ---
 layout: partials/shared/mappers/white-paper-mapper
 title: "Eliminating the Security-vs-Scalability Dilemma: Randomized-Committee Consensus Protocols"
-readPaperBtn: read the paper
+readPaperBtn: 문서 읽기
 date: August 2018
 url: white-papers/eliminating-the-security-vs-scalability-dilemma-randomized-committee-consensus-protocols
 button: Preview Paper

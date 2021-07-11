@@ -11,7 +11,7 @@ links:
   - img: /assets/img/socials/youtube.png
     url: https://www.youtube.com/channel/UCKxNkYT3UAEra9jp947l5gw?sub_confirmation=1
 
-  - img: /assets/img/socials/medium.svg
+  - img: /assets/img/socials/medium.png
     url: https://orbskorea.medium.com/
 
   - img: /assets/img/socials/github.svg

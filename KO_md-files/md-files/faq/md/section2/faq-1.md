@@ -1,6 +1,6 @@
 ---
 layout: partials/shared/opening-box
-title: Orbs POS V2가 무엇인가요?
+title: Orbs POS V2란 무엇인가요?
 color: "#1EE6CF"
 ---
 
