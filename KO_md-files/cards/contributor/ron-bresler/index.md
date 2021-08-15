@@ -9,4 +9,4 @@ lng: 34.8667654
 countryCode: IL
 ---
 
-관심분야: react, javascript, mobile
+관심분야: 분산 시스템, Go, 블록체인
